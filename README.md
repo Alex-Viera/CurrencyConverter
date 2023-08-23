@@ -12,10 +12,14 @@ Small app to practice fundamental Java concepts
 ![static-badge status](https://img.shields.io/badge/status-finished-darkgreen)
 
 
-## Welcome! :el_salvador: &#127480;&#127483; :flag_sv: \01F1F8 \01F1FB \uD83C\uDDF8\uD83C\uDDFB
+## Welcome! 
+<img 
+  alt="El-Salvador-flag" 
+  src="https://github.com/Alex-Viera/CurrencyConverter/assets/134527756/2a045e13-45e4-4d16-be77-bad20f1daa1a"   width="5%">
+  
 ```
 This is a small currency converter
-of the currency of El Salvador towards the
+of the currency of El Salvador to the
 major world currencies and vice versa.
 
 Currently in El Salvador there are three
@@ -25,6 +29,23 @@ legal currencies:
 Cardano cryptocurrency is also included
 to complement the list and have alternatives to fiat money.
 ```
+
+
+## About this app
+Available currencies in this app
+
+| Name                   | Code  |
+| ---------------------- | ----- |
+| US Dollar              |  USD  |
+| Euro                   |  EUR  |
+| British Pound          |  GBP  |
+| Swiss Franc            |  CHF  |
+| Chinese Yuan Renminbi  |  CNY  |
+| Japanese Yen           |  JPY  |
+| South Korea Won        |  KRW  |
+| Bitcoin                |  BTC  |
+| Cardano                |  ADA  |
+| Salvadoran colón       |  SVC  |
 
 
 ## Get started with the project
@@ -39,6 +60,8 @@ You can do so from this link [jre-download](https://www.java.com/download/ie_man
 * Navigate to: `CurrencyConverter-1.0\Currency Converter\out\artifacts\Currency_Converter_jar`
 * Move the `.jar` file to the desktop (you can delete the remaining files if you want)
 * Double click to run the app
+
+https://github.com/Alex-Viera/CurrencyConverter/assets/134527756/fdc595c8-8948-43ec-8f56-4c7977638e68
 
 
 ## Disclaimer ⚠
