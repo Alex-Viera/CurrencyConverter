@@ -11,7 +11,8 @@ Small app to practice fundamental Java concepts
 ![static-badge coding skill](https://img.shields.io/badge/coding%20skill-beginner-lightgray)
 ![static-badge status](https://img.shields.io/badge/status-finished-darkgreen)
 
-## Welcome!
+
+## Welcome! :el_salvador: &#127480;&#127483; :flag_sv: \01F1F8 \01F1FB \uD83C\uDDF8\uD83C\uDDFB
 ```
 This is a small currency converter
 of the currency of El Salvador towards the
@@ -25,6 +26,21 @@ Cardano cryptocurrency is also included
 to complement the list and have alternatives to fiat money.
 ```
 
+
 ## Get started with the project
-To run this app you'll need to install the Java Runtime Environment (JRE).
+Follow the steps below to download and run the app
+
+* To run this app you'll need to install the Java Runtime Environment (JRE).
 You can do so from this link [jre-download](https://www.java.com/download/ie_manual.jsp)
+
+* Go to the released section  
+* Select one source code format to download
+* Extract the file
+* Navigate to: `CurrencyConverter-1.0\Currency Converter\out\artifacts\Currency_Converter_jar`
+* Move the `.jar` file to the desktop (you can delete the remaining files if you want)
+* Double click to run the app
+
+
+## Disclaimer ⚠
+* This app uses static exchange rates to perform conversions, therefore it does not reflect actual market fluctuations.
+* The output format is predefined for two decimal places.
